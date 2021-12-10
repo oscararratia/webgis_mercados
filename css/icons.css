@@ -1,0 +1,69 @@
+.icon {
+	display: inline-block;
+	margin: 2px;
+	height: 16px;
+	width: 16px;
+	background-color: #ccc;
+}
+
+/* ICONS */
+.icon-bar {
+	background: url('images/bar.png') center center no-repeat;
+}
+.icon-fuel {
+	background: url('images/fuel.png') center center no-repeat;
+}
+.icon-parking {
+	background: url('images/parking.png') center center no-repeat;
+}
+.icon-drinking_water {
+	background: url('images/drinking_water.png') center center no-repeat;
+}
+.icon-vivienda {
+	background: url('images/Vivienda_03_24.png') center center no-repeat;
+}
+.icon-transporte {
+	background: url('images/Transportes_05_24.png') center center no-repeat;
+}
+.icon-hospital {
+	background: url('images/Salud_04_24.png') center center no-repeat;
+}
+.icon-colegio {
+	background: url('images/Educacion_02_24.png') center center no-repeat;
+}
+.icon-agricultura {
+	background: url('images/Agricultura_01_24.png') center center no-repeat;
+}
+.icon-convocatoria {
+	background: url('images/convocatoria.png') center center no-repeat;
+}
+.icon-pendiente {
+	background: url('images/pendiente.png') center center no-repeat;
+}
+.icon-ejecucion {
+	background: url('images/ejecucion.png') center center no-repeat;
+}
+.icon-concluida {
+	background: url('images/concluida.png') center center no-repeat;
+}
+.icon-interes {
+	background: url('images/interes.png') center center no-repeat;
+}
+
+/* MARKERS */
+.leaflet-marker-icon {
+	padding: 2px;
+	text-align: center;
+}
+.marker-bar {
+	background: url('images/markers/bar.png') center center no-repeat;
+}
+.marker-fuel {
+	background: url('images/markers/fuel.png') center center no-repeat;
+}
+.marker-parking {
+	background: url('images/markers/parking.png') center center no-repeat;
+}
+.marker-drinking_water {
+	background: url('images/markers/drinking_water.png') center center no-repeat;
+}
