@@ -1,7 +1,7 @@
 <html>
 <head> 
 	<meta charset="UTF-8">
-	<title>Mercados de Tacna</title>
+	<title>Grifos de Tacna</title>
 	<link rel="stylesheet" href="css/leaflet.css" />
 	
 	<style> 
@@ -47,9 +47,8 @@
 	var osm = new L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	attribution: '&copy; <ahref="http://osm.org/copyright"> OpenStreetMap</a> contributor'
 }).addTo(map);
-L.control.scale().addTo(map);
-L.marker([-18.014424, -70.2517890], {draggable: true}).addTo(map);
 
+L.control.scale().addTo(map);
 		
 	//*****************LISTA DE SERVICIOS*******************************//
 		
